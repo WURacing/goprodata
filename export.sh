@@ -8,3 +8,4 @@ for file in ../../videos/*.MP4; do
     ./gpx2video -q -m $file -o "../../$1$(basename $file .MP4).gpx" -f 3 extract
 done
 cd ../../
+echo "Done!"
