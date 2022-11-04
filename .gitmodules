@@ -1,0 +1,3 @@
+[submodule "gpx2video"]
+	path = gpx2video
+	url = git@github.com:progweb/gpx2video.git
